@@ -8,3 +8,4 @@ Formulas for Countif were a challenge to understand. I was able to use resources
 ### Results 
 Launch date plays a factor in a successful Kickstarter campaign. The most successful Month to start a campaign is in May. There is a steady decline in successful campaigns until the end of the year. It is not recommended to start a Kickstarter campaign between December and March. For campaigns that are less then $10,000 there are more successful campaigns than failures. Above $15,000 has a higher failure rate and is not recommended for a Kickstarter campaign.        
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95973377/146471774-eb88cc2e-06e8-41fc-accb-39c4f8fdf33c.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95973377/146471887-69be56b6-0633-4aba-9d2d-d02f3f4beaa6.png)
